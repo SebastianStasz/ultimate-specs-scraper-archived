@@ -1,4 +1,4 @@
-# ultimatespecs_scraper
+# Ultimatespecs scraper [Archived]
 
 Program w pythonie służący do scrapowania danych samochodowych z pewnej strony internetowej. 
 Pobrane dane są zapisywane w formacie json. Program napisany w celu pozyskania danych o samochodach, 
